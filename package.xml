@@ -29,6 +29,7 @@
   <buildtool_depend>hdf5-tools</buildtool_depend>
   <buildtool_depend>pkg-config</buildtool_depend>
   <depend>boost</depend>
+  <depend>ffmpeg</depend>
   <depend>libusb-1.0</depend>
   <depend>libusb-1.0-dev</depend>
   <depend>libusb</depend>
@@ -36,9 +37,9 @@
   <depend>libhdf5-dev</depend>
   <depend>libglew-dev</depend>
   <depend>libglfw3-dev</depend>
-  <depend>ffmpeg</depend>
   <depend>libopencv-dev</depend>
   <depend>libopenscenegraph</depend>
+  <depend>protobuf-dev</depend>
   <test_depend>gtest</test_depend>
   
   <export>
