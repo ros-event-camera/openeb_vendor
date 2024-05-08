@@ -13,6 +13,6 @@ on:
 
 jobs:
   build_ros2:
-    uses: ros-misc-utilities/ros_build_scripts/.github/workflows/ros2_ci_recent.yml@master
+    uses: ros-misc-utilities/ros_build_scripts/.github/workflows/ros2_recent_ci.yml@master
     with:
       repo: ${{ github.event.repository.name }}
