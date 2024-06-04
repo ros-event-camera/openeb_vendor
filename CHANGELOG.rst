@@ -2,8 +2,8 @@
 Changelog for package openeb_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.1 (2024-06-04)
+------------------
 * disable hdf5 plugin
 * Contributors: Bernd Pfrommer
 
