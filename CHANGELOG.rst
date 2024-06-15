@@ -2,6 +2,12 @@
 Changelog for package openeb_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added config extras
+* added missing ament_package()
+* Contributors: Bernd Pfrommer
+
 1.0.1 (2024-06-03)
 ------------------
 * disable hdf5 plugin
