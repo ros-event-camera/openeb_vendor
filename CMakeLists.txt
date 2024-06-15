@@ -39,3 +39,5 @@ ament_vendor(openeb_vendor
   -DHDF5_DISABLED=ON
 )
 #  PATCHES patches
+
+ament_package()
