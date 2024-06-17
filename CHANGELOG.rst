@@ -2,8 +2,8 @@
 Changelog for package openeb_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.2 (2024-06-17)
+------------------
 * added config extras
 * added missing ament_package()
 * Contributors: Bernd Pfrommer
