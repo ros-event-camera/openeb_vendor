@@ -2,8 +2,8 @@
 Changelog for package openeb_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.2 (2025-03-08)
+------------------
 * updated README to reflect missing silkyevcam patch
 * disable silkyevcam patch as it disables evk4
 * upgraded to MV5.0.0 and re-added silkyevcam
