@@ -3,8 +3,9 @@
 Wrapper package to build the [Prophesee OpenEB](https://github.com/prophesee-ai/openeb)
 library (Metavision SDK) on the ROS2 build farm.
 
-This package also contains a patch to build the [SilkyEVCam
-plugin](https://centuryarks.com/en/download/) from source.
+Note:
+The patch to build the [SilkyEVCam plugin](https://centuryarks.com/en/download/) has been suspended for
+now since it disables the Prophesee sensors!
 
 
 ## License
