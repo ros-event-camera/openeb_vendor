@@ -2,8 +2,8 @@
 Changelog for package openeb_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.3 (2026-05-08)
+------------------
 * switch to different workflow
 * use openeb v5.2
 * Contributors: Bernd Pfrommer
