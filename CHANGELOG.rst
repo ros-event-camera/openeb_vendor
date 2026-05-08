@@ -2,6 +2,12 @@
 Changelog for package openeb_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* switch to different workflow
+* use openeb v5.2
+* Contributors: Bernd Pfrommer
+
 2.0.2 (2025-03-08)
 ------------------
 * updated README to reflect missing silkyevcam patch
